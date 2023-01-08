@@ -74,8 +74,9 @@ img{
     margin-left: auto;
     margin-right: auto;
     width:50%;
-    padding-top: 1rem;
+    padding-top: 0.3rem;
     display: block;
+    border-radius: 44px;
     
     
    
